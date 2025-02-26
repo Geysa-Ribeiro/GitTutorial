@@ -193,3 +193,7 @@ Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-
 **Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://youtube.com/RafaellaBallerini) ❤**
 
 Até semana que vem, um beijo!
+
+Boa noite rafa, estava assistindo ao seu vídeo para um trabalho da faculdade e estou exemplificando com prints os comandos do git e gitHub, portanto vou fazer uma pull request, mas não precisa aceitar.
+Obrigada pelo vídeo e conteúdos, ajudam demais!!
+:)
